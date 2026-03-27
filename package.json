@@ -1,0 +1,27 @@
+{
+  "name": "@fly-ai/flyai-skill",
+  "version": "1.1.0",
+  "description": "FlyAI Skill - Travel assistant based on Fliggy MCP, providing hotel booking, flight search, attraction recommendations and one-stop travel services",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flyai",
+    "fliggy",
+    "travel",
+    "hotel",
+    "flight",
+    "mcp",
+    "skill"
+  ],
+  "author": "Alibaba Fliggy Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alibaba-flyai/flyai-skill.git"
+  },
+  "homepage": "https://open.fly.ai/",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
